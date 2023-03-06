@@ -1,0 +1,22 @@
+a{
+    color: #f66d52; /* Цвет ссылки */
+    text-decoration: none;
+    -webkit-transition: all 1s ease;
+            transition: all 1s ease; /* Время изменения цвета */
+}
+p#special{
+    color: red;
+}
+ a:hover{
+    color: #ffa000; /* Меняем цвет ссылки */
+  }
+.firsttake{
+background-color: #ffa000;
+}
+.cit{
+    border-radius: 5px;
+    background-color: rgb(205, 227, 255);
+}
+b#berlioz{
+    background-color: yellow;
+}
