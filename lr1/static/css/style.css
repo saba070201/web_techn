@@ -14,9 +14,27 @@ p#special{
 background-color: #ffa000;
 }
 .cit{
-    border-radius: 5px;
-    background-color: rgb(205, 227, 255);
+    border-color: #29dd74;
+    background-color: #0a9df8;
+    border-width: thick; /*ТОЛЩИНА  */
+    border-radius: 30px;
+    margin-top: 0.5%; /*ВНЕШНИЙ ОТСТУП СВЕРХУ */
+    font-size: 20px;
+    text-align: center; /* ГОРИЗОНТАЛЬНОЕ ВЫРАВНИВАНИЕ: ЦЕНТРИРОВАНИЕ  */
+    color: #000000; /* ЦВЕТ ТЕКСТА  */
+    line-height: 1.5;
 }
 b#berlioz{
     background-color: yellow;
 }
+.second{
+    border-color: #29dd74;
+    background-color: #85f80a;
+    border-radius: 10px;
+    margin-top: 0.5%; /*ВНЕШНИЙ ОТСТУП СВЕРХУ */
+    font-size: 10px;
+    text-align: center; /* ГОРИЗОНТАЛЬНОЕ ВЫРАВНИВАНИЕ: ЦЕНТРИРОВАНИЕ  */
+    color: #000000; /* ЦВЕТ ТЕКСТА  */
+    line-height: 2.0;
+}
+
