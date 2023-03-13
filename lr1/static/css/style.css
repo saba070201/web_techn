@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 a{
     color: #f66d52; /* Цвет ссылки */
     text-decoration: none;
@@ -12,6 +13,10 @@ p#special{
   }
 .firsttake{
 background-color: #ffa000;
+}
+li#special{
+    background-color: #ffa000; 
+    text-decoration-style: double;
 }
 .cit{
     border-color: #29dd74;
@@ -37,4 +42,12 @@ b#berlioz{
     color: #000000; /* ЦВЕТ ТЕКСТА  */
     line-height: 2.0;
 }
-
+.stroke{
+    color: #670d14;
+    text-shadow: #cad5e2 1px 1px 0, #cad5e2 2px 2px 0, 
+                 #cad5e2 3px 3px 0, #cad5e2 4px 4px 0, 
+                 #cad5e2 5px 5px 0;
+}
+.third_par{
+    font-family: 'Oswald', sans-serif;
+}
